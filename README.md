@@ -15,6 +15,7 @@ Segmentacija slika uz pomoć fuzzy klasterovanja.
 
 [![python](https://img.shields.io/badge/Language-Python-green)](https://www.python.org/) <br>
 [![jupyter](https://img.shields.io/badge/Environment-The_Jupyter_Notebook-orange)](https://jupyter.org/) <br>
+[![latex](https://img.shields.io/badge/Document_preparation-Latex-blue)](https://www.latex-project.org/) <br>
 
 ### Autori:
 
