@@ -6,6 +6,11 @@
 \contentsline {subsection}{\numberline {1.4}\fontencoding {T1}\selectfont Fuzzy \fontencoding {OT2}\selectfont klasterovanje}{4}{subsection.1.4}%
 \contentsline {section}{\numberline {2}\fontencoding {OT2}\selectfont Segmentacija slika}{4}{section.2}%
 \contentsline {subsection}{\numberline {2.1}\fontencoding {T1}\selectfont Fuzzy c-means}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}\fontencoding {OT2}\selectfont Na\v {s}a implementacija}{6}{subsection.2.2}%
-\contentsline {section}{\numberline {3}\fontencoding {OT2}\selectfont Zaklju\v {c}ak}{7}{section.3}%
-\contentsline {section}{\numberline {4}\fontencoding {OT2}\selectfont Literatura}{9}{section.4}%
+\contentsline {subsubsection}{\numberline {2.1.1}\fontencoding {OT2}\selectfont Na\v {s}a implementacija algoritma {\fontencoding {T1}\selectfont fuzzy c-means}}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}\fontencoding {OT2}\selectfont Rezultati na\v {s}eg algoritma {\fontencoding {T1}\selectfont fuzzy c-means} na nekim rendgenskim snimcima tumora}{7}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}\fontencoding {T1}\selectfont K-means}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}\fontencoding {OT2}\selectfont Na\v {s}a implementacija algoritma {\fontencoding {T1}\selectfont k-means}}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}\fontencoding {OT2}\selectfont Rezultati na\v {s}eg algoritma {\fontencoding {T1}\selectfont k-means} na nekim rendgenskim snimcima tumora}{10}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}\fontencoding {OT2}\selectfont Zaklju\v {c}ak}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}\fontencoding {OT2}\selectfont Pore\dj enje rezultata}{11}{subsection.3.1}%
+\contentsline {section}{\numberline {4}\fontencoding {OT2}\selectfont Literatura}{12}{section.4}%
