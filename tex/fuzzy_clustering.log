@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.8)  7 JUL 2021 23:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.8)  18 JUL 2021 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -998,7 +998,7 @@ ne 27.
 (/usr/share/texlive/texmf-dist/tex/latex/cmsrb/omxcmsrbex.fd
 File: omxcmsrbex.fd 
 )
-<images/grb.png, id=64, 346.29375pt x 409.53pt>
+<images/grb.png, id=68, 346.29375pt x 409.53pt>
 File: images/grb.png Graphic file (type png)
 <use images/grb.png>
 Package pdftex.def Info: images/grb.png  used on input line 33.
@@ -1017,12 +1017,12 @@ e 57.
 (/usr/share/texlive/texmf-dist/tex/latex/cmsrb/ts1cmsrbr.fd
 File: ts1cmsrbr.fd 
 )
-<images/part_klast.png, id=96, 825.0825pt x 432.61626pt>
+<images/part_klast.png, id=102, 825.0825pt x 432.61626pt>
 File: images/part_klast.png Graphic file (type png)
 <use images/part_klast.png>
 Package pdftex.def Info: images/part_klast.png  used on input line 60.
 (pdftex.def)             Requested size: 288.7832pt x 151.41795pt.
-<images/hie_clast.png, id=98, 682.55pt x 220.825pt>
+<images/hie_clast.png, id=104, 682.55pt x 220.825pt>
 File: images/hie_clast.png Graphic file (type png)
 <use images/hie_clast.png>
 Package pdftex.def Info: images/hie_clast.png  used on input line 66.
@@ -1033,72 +1033,416 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 72.
 
-[4 <./images/hie_clast.png>] [5] [6]
-<images/segmented0.png, id=139, 1149.29375pt x 286.06876pt>
-File: images/segmented0.png Graphic file (type png)
-<use images/segmented0.png>
-Package pdftex.def Info: images/segmented0.png  used on input line 170.
-(pdftex.def)             Requested size: 517.17741pt x 128.72974pt.
-<images/segmented1.png, id=140, 1153.30875pt x 291.0875pt>
-File: images/segmented1.png Graphic file (type png)
-<use images/segmented1.png>
-Package pdftex.def Info: images/segmented1.png  used on input line 171.
-(pdftex.def)             Requested size: 518.98415pt x 130.98816pt.
-<images/segmented2.png, id=141, 1150.2975pt x 293.095pt>
-File: images/segmented2.png Graphic file (type png)
-<use images/segmented2.png>
-Package pdftex.def Info: images/segmented2.png  used on input line 172.
-(pdftex.def)             Requested size: 517.6291pt x 131.89153pt.
- [7 <./images/segmented0.png> <./images/segmented1.png> <./images/segmented2.pn
-g>] [8] [9]
-<images/segmented_k_means0.png, id=164, 1149.29375pt x 295.1025pt>
-File: images/segmented_k_means0.png Graphic file (type png)
-<use images/segmented_k_means0.png>
-Package pdftex.def Info: images/segmented_k_means0.png  used on input line 233.
 
-(pdftex.def)             Requested size: 517.17741pt x 132.79489pt.
-<images/segmented_k_means1.png, id=165, 1152.305pt x 291.0875pt>
+Overfull \hbox (8.5711pt too wide) in paragraph at lines 90--91
+\T1/cmsrbr/m/n/10 Fuz-zy C-Spherical Shells (FCSS), Fuz-zy C-Rings, Fuz-zy C-Qu
+adric Shells (FCQS),
+ []
+
+[4 <./images/hie_clast.png>] [5]
+Overfull \hbox (3.83pt too wide) in paragraph at lines 136--138
+[]\OT2/cmsrbr/m/n/10 Rexenje pro-ble-ma seg-men-ta-ci-je sli-ka uz po-mo^^O al-
+go-rit-ma fa-zi c-sredina
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+[6] [7]
+Overfull \hbox (12.22173pt too wide) in paragraph at lines 168--170
+[]\OT2/cmsrbr/m/n/10 Nakon opi-sa-nog po-stup-ka sli-ke is-pi-su-je-mo ko-rix^^
+Oenjem funk-ci-ja $\OML/cmmsrbm/m/it/10 subplot\OT1/cmrsrbm/m/n/10 ()$
+ []
+
+<images/segmented_fuzzy_c_means1.png, id=148, 1158.3275pt x 290.08376pt>
+File: images/segmented_fuzzy_c_means1.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means1.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means1.png  used on input lin
+e 172.
+(pdftex.def)             Requested size: 521.24257pt x 130.53647pt.
+<images/segmented_fuzzy_c_means3.png, id=149, 1157.32375pt x 293.095pt>
+File: images/segmented_fuzzy_c_means3.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means3.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means3.png  used on input lin
+e 173.
+(pdftex.def)             Requested size: 520.79088pt x 131.89153pt.
+<images/segmented_fuzzy_c_means6.png, id=150, 1169.36874pt x 296.10625pt>
+File: images/segmented_fuzzy_c_means6.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means6.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means6.png  used on input lin
+e 174.
+(pdftex.def)             Requested size: 526.21107pt x 133.24657pt.
+[8 <./images/segmented_fuzzy_c_means1.png> <./images/segmented_fuzzy_c_means3.p
+ng> <./images/segmented_fuzzy_c_means6.png>]
+<images/segmented_fuzzy_c_means7.png, id=158, 1169.36874pt x 296.10625pt>
+File: images/segmented_fuzzy_c_means7.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means7.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means7.png  used on input lin
+e 180.
+(pdftex.def)             Requested size: 526.21107pt x 133.24657pt.
+<images/segmented_fuzzy_c_means8.png, id=159, 1158.3275pt x 297.11pt>
+File: images/segmented_fuzzy_c_means8.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means8.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means8.png  used on input lin
+e 181.
+(pdftex.def)             Requested size: 521.24257pt x 133.69826pt.
+<images/segmented_fuzzy_c_means5.png, id=160, 1157.32375pt x 297.11pt>
+File: images/segmented_fuzzy_c_means5.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means5.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means5.png  used on input lin
+e 182.
+(pdftex.def)             Requested size: 520.79088pt x 133.69826pt.
+<images/segmented_fuzzy_c_means4.png, id=161, 1169.36874pt x 296.10625pt>
+File: images/segmented_fuzzy_c_means4.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means4.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means4.png  used on input lin
+e 183.
+(pdftex.def)             Requested size: 526.21107pt x 133.24657pt.
+ [9 <./images/segmented_fuzzy_c_means7.png> <./images/segmented_fuzzy_c_means8.
+png> <./images/segmented_fuzzy_c_means5.png> <./images/segmented_fuzzy_c_means4
+.png>]
+<images/segmented_fuzzy_c_means9.png, id=170, 1158.3275pt x 298.11375pt>
+File: images/segmented_fuzzy_c_means9.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means9.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means9.png  used on input lin
+e 189.
+(pdftex.def)             Requested size: 521.24257pt x 134.14995pt.
+<images/segmented_fuzzy_c_means11.png, id=171, 1158.3275pt x 295.1025pt>
+File: images/segmented_fuzzy_c_means11.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means11.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means11.png  used on input li
+ne 190.
+(pdftex.def)             Requested size: 521.24257pt x 132.79489pt.
+<images/segmented_fuzzy_c_means12.png, id=172, 1163.34625pt x 296.10625pt>
+File: images/segmented_fuzzy_c_means12.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means12.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means12.png  used on input li
+ne 191.
+(pdftex.def)             Requested size: 523.50099pt x 133.24657pt.
+<images/segmented_fuzzy_c_means13.png, id=173, 1158.3275pt x 293.095pt>
+File: images/segmented_fuzzy_c_means13.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means13.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means13.png  used on input li
+ne 192.
+(pdftex.def)             Requested size: 521.24257pt x 131.89153pt.
+ [10 <./images/segmented_fuzzy_c_means9.png> <./images/segmented_fuzzy_c_means1
+1.png> <./images/segmented_fuzzy_c_means12.png> <./images/segmented_fuzzy_c_mea
+ns13.png>]
+<images/segmented_fuzzy_c_means0.png, id=183, 1161.33875pt x 293.095pt>
+File: images/segmented_fuzzy_c_means0.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means0.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means0.png  used on input lin
+e 198.
+(pdftex.def)             Requested size: 522.59761pt x 131.89153pt.
+<images/segmented_fuzzy_c_means10.png, id=184, 1158.3275pt x 295.1025pt>
+File: images/segmented_fuzzy_c_means10.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means10.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means10.png  used on input li
+ne 199.
+(pdftex.def)             Requested size: 521.24257pt x 132.79489pt.
+<images/segmented_fuzzy_c_means2.png, id=185, 1158.3275pt x 290.08376pt>
+File: images/segmented_fuzzy_c_means2.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means2.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means2.png  used on input lin
+e 200.
+(pdftex.def)             Requested size: 521.24257pt x 130.53647pt.
+ [11 <./images/segmented_fuzzy_c_means0.png> <./images/segmented_fuzzy_c_means1
+0.png> <./images/segmented_fuzzy_c_means2.png>]
+<images/ultra_segmented_fuzzy_c_means0.png, id=193, 1161.33875pt x 294.09875pt>
+
+File: images/ultra_segmented_fuzzy_c_means0.png Graphic file (type png)
+<use images/ultra_segmented_fuzzy_c_means0.png>
+Package pdftex.def Info: images/ultra_segmented_fuzzy_c_means0.png  used on inp
+ut line 208.
+(pdftex.def)             Requested size: 522.59761pt x 132.3432pt.
+<images/ultra_segmented_fuzzy_c_means1.png, id=194, 1162.3425pt x 297.11pt>
+File: images/ultra_segmented_fuzzy_c_means1.png Graphic file (type png)
+<use images/ultra_segmented_fuzzy_c_means1.png>
+Package pdftex.def Info: images/ultra_segmented_fuzzy_c_means1.png  used on inp
+ut line 209.
+(pdftex.def)             Requested size: 523.0493pt x 133.69826pt.
+<images/ultra_segmented_fuzzy_c_means2.png, id=195, 1164.35pt x 288.07625pt>
+File: images/ultra_segmented_fuzzy_c_means2.png Graphic file (type png)
+<use images/ultra_segmented_fuzzy_c_means2.png>
+Package pdftex.def Info: images/ultra_segmented_fuzzy_c_means2.png  used on inp
+ut line 210.
+(pdftex.def)             Requested size: 523.95267pt x 129.6331pt.
+ [12 <./images/ultra_segmented_fuzzy_c_means0.png> <./images/ultra_segmented_fu
+zzy_c_means1.png> <./images/ultra_segmented_fuzzy_c_means2.png>]
+<images/low_segmented_fuzzy_c_means0.png, id=203, 864.22874pt x 290.08376pt>
+File: images/low_segmented_fuzzy_c_means0.png Graphic file (type png)
+<use images/low_segmented_fuzzy_c_means0.png>
+Package pdftex.def Info: images/low_segmented_fuzzy_c_means0.png  used on input
+ line 218.
+(pdftex.def)             Requested size: 388.89934pt x 130.53647pt.
+<images/low_segmented_fuzzy_c_means1.png, id=204, 869.2475pt x 300.12125pt>
+File: images/low_segmented_fuzzy_c_means1.png Graphic file (type png)
+<use images/low_segmented_fuzzy_c_means1.png>
+Package pdftex.def Info: images/low_segmented_fuzzy_c_means1.png  used on input
+ line 219.
+(pdftex.def)             Requested size: 391.15776pt x 135.05331pt.
+<images/low_segmented_fuzzy_c_means2.png, id=205, 878.28125pt x 287.0725pt>
+File: images/low_segmented_fuzzy_c_means2.png Graphic file (type png)
+<use images/low_segmented_fuzzy_c_means2.png>
+Package pdftex.def Info: images/low_segmented_fuzzy_c_means2.png  used on input
+ line 220.
+(pdftex.def)             Requested size: 395.22292pt x 129.18143pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+[13 <./images/low_segmented_fuzzy_c_means0.png> <./images/low_segmented_fuzzy_c
+_means1.png> <./images/low_segmented_fuzzy_c_means2.png>]
+<images/segmented_fuzzy_c_means_tumor0.png, id=215, 1158.3275pt x 295.1025pt>
+File: images/segmented_fuzzy_c_means_tumor0.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means_tumor0.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means_tumor0.png  used on inp
+ut line 231.
+(pdftex.def)             Requested size: 521.24257pt x 132.79489pt.
+<images/segmented_fuzzy_c_means_tumor1.png, id=216, 1156.32pt x 291.0875pt>
+File: images/segmented_fuzzy_c_means_tumor1.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means_tumor1.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means_tumor1.png  used on inp
+ut line 232.
+(pdftex.def)             Requested size: 520.3392pt x 130.98816pt.
+<images/segmented_fuzzy_c_means_tumor2.png, id=217, 1157.32375pt x 296.10625pt>
+
+File: images/segmented_fuzzy_c_means_tumor2.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means_tumor2.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means_tumor2.png  used on inp
+ut line 233.
+(pdftex.def)             Requested size: 520.79088pt x 133.24657pt.
+<images/segmented_fuzzy_c_means_tumor3.png, id=218, 1158.3275pt x 290.08376pt>
+File: images/segmented_fuzzy_c_means_tumor3.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means_tumor3.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means_tumor3.png  used on inp
+ut line 234.
+(pdftex.def)             Requested size: 521.24257pt x 130.53647pt.
+ [14 <./images/segmented_fuzzy_c_means_tumor0.png> <./images/segmented_fuzzy_c_
+means_tumor1.png> <./images/segmented_fuzzy_c_means_tumor2.png> <./images/segme
+nted_fuzzy_c_means_tumor3.png>]
+<images/segmented_fuzzy_c_means_tumor4.png, id=227, 1171.37625pt x 292.09125pt>
+
+File: images/segmented_fuzzy_c_means_tumor4.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means_tumor4.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means_tumor4.png  used on inp
+ut line 240.
+(pdftex.def)             Requested size: 527.11444pt x 131.43983pt.
+<images/segmented_fuzzy_c_means_tumor5.png, id=228, 1162.3425pt x 293.095pt>
+File: images/segmented_fuzzy_c_means_tumor5.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means_tumor5.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means_tumor5.png  used on inp
+ut line 241.
+(pdftex.def)             Requested size: 523.0493pt x 131.89153pt.
+<images/segmented_fuzzy_c_means_tumor6.png, id=229, 1172.38pt x 290.08376pt>
+File: images/segmented_fuzzy_c_means_tumor6.png Graphic file (type png)
+<use images/segmented_fuzzy_c_means_tumor6.png>
+Package pdftex.def Info: images/segmented_fuzzy_c_means_tumor6.png  used on inp
+ut line 242.
+(pdftex.def)             Requested size: 527.56613pt x 130.53647pt.
+ [15 <./images/segmented_fuzzy_c_means_tumor4.png> <./images/segmented_fuzzy_c_
+means_tumor5.png> <./images/segmented_fuzzy_c_means_tumor6.png>]
+[16] [17]
+<images/segmented_k_means1.png, id=250, 1166.3575pt x 296.10625pt>
 File: images/segmented_k_means1.png Graphic file (type png)
 <use images/segmented_k_means1.png>
-Package pdftex.def Info: images/segmented_k_means1.png  used on input line 234.
+Package pdftex.def Info: images/segmented_k_means1.png  used on input line 308.
 
-(pdftex.def)             Requested size: 518.53246pt x 130.98816pt.
-<images/segmented_k_means2.png, id=166, 1154.3125pt x 293.095pt>
+(pdftex.def)             Requested size: 524.85603pt x 133.24657pt.
+<images/segmented_k_means3.png, id=251, 1155.31625pt x 295.1025pt>
+File: images/segmented_k_means3.png Graphic file (type png)
+<use images/segmented_k_means3.png>
+Package pdftex.def Info: images/segmented_k_means3.png  used on input line 309.
+
+(pdftex.def)             Requested size: 519.88751pt x 132.79489pt.
+<images/segmented_k_means4.png, id=252, 1165.35374pt x 296.10625pt>
+File: images/segmented_k_means4.png Graphic file (type png)
+<use images/segmented_k_means4.png>
+Package pdftex.def Info: images/segmented_k_means4.png  used on input line 310.
+
+(pdftex.def)             Requested size: 524.40434pt x 133.24657pt.
+<images/segmented_k_means5.png, id=253, 1159.33125pt x 296.10625pt>
+File: images/segmented_k_means5.png Graphic file (type png)
+<use images/segmented_k_means5.png>
+Package pdftex.def Info: images/segmented_k_means5.png  used on input line 311.
+
+(pdftex.def)             Requested size: 521.69424pt x 133.24657pt.
+ [18 <./images/segmented_k_means1.png> <./images/segmented_k_means3.png> <./ima
+ges/segmented_k_means4.png> <./images/segmented_k_means5.png>]
+<images/segmented_k_means8.png, id=262, 1162.3425pt x 295.1025pt>
+File: images/segmented_k_means8.png Graphic file (type png)
+<use images/segmented_k_means8.png>
+Package pdftex.def Info: images/segmented_k_means8.png  used on input line 317.
+
+(pdftex.def)             Requested size: 523.0493pt x 132.79489pt.
+<images/segmented_k_means6.png, id=263, 1157.32375pt x 288.07625pt>
+File: images/segmented_k_means6.png Graphic file (type png)
+<use images/segmented_k_means6.png>
+Package pdftex.def Info: images/segmented_k_means6.png  used on input line 318.
+
+(pdftex.def)             Requested size: 520.79088pt x 129.6331pt.
+<images/segmented_k_means7.png, id=264, 1157.32375pt x 290.08376pt>
+File: images/segmented_k_means7.png Graphic file (type png)
+<use images/segmented_k_means7.png>
+Package pdftex.def Info: images/segmented_k_means7.png  used on input line 319.
+
+(pdftex.def)             Requested size: 520.79088pt x 130.53647pt.
+<images/segmented_k_means0.png, id=265, 1160.335pt x 293.095pt>
+File: images/segmented_k_means0.png Graphic file (type png)
+<use images/segmented_k_means0.png>
+Package pdftex.def Info: images/segmented_k_means0.png  used on input line 320.
+
+(pdftex.def)             Requested size: 522.14592pt x 131.89153pt.
+
+[19 <./images/segmented_k_means8.png> <./images/segmented_k_means6.png> <./imag
+es/segmented_k_means7.png> <./images/segmented_k_means0.png>]
+<images/segmented_k_means10.png, id=275, 1158.3275pt x 290.08376pt>
+File: images/segmented_k_means10.png Graphic file (type png)
+<use images/segmented_k_means10.png>
+Package pdftex.def Info: images/segmented_k_means10.png  used on input line 326
+.
+(pdftex.def)             Requested size: 521.24257pt x 130.53647pt.
+<images/segmented_k_means11.png, id=276, 1161.33875pt x 292.09125pt>
+File: images/segmented_k_means11.png Graphic file (type png)
+<use images/segmented_k_means11.png>
+Package pdftex.def Info: images/segmented_k_means11.png  used on input line 327
+.
+(pdftex.def)             Requested size: 522.59761pt x 131.43983pt.
+<images/segmented_k_means9.png, id=277, 1166.3575pt x 290.08376pt>
+File: images/segmented_k_means9.png Graphic file (type png)
+<use images/segmented_k_means9.png>
+Package pdftex.def Info: images/segmented_k_means9.png  used on input line 328.
+
+(pdftex.def)             Requested size: 524.85603pt x 130.53647pt.
+<images/segmented_k_means2.png, id=278, 1150.2975pt x 302.12875pt>
 File: images/segmented_k_means2.png Graphic file (type png)
 <use images/segmented_k_means2.png>
-Package pdftex.def Info: images/segmented_k_means2.png  used on input line 235.
+Package pdftex.def Info: images/segmented_k_means2.png  used on input line 329.
 
-(pdftex.def)             Requested size: 519.43584pt x 131.89153pt.
- [10 <./images/segmented_k_means0.png> <./images/segmented_k_means1.png> <./ima
-ges/segmented_k_means2.png>]
+(pdftex.def)             Requested size: 517.6291pt x 135.95668pt.
+ [20 <./images/segmented_k_means10.png> <./images/segmented_k_means11.png> <./i
+mages/segmented_k_means9.png> <./images/segmented_k_means2.png>]
+<images/segmented_k_means12.png, id=287, 1155.31625pt x 293.095pt>
+File: images/segmented_k_means12.png Graphic file (type png)
+<use images/segmented_k_means12.png>
+Package pdftex.def Info: images/segmented_k_means12.png  used on input line 335
+.
+(pdftex.def)             Requested size: 519.88751pt x 131.89153pt.
+<images/segmented_k_means13.png, id=288, 1158.3275pt x 295.1025pt>
+File: images/segmented_k_means13.png Graphic file (type png)
+<use images/segmented_k_means13.png>
+Package pdftex.def Info: images/segmented_k_means13.png  used on input line 336
+.
+(pdftex.def)             Requested size: 521.24257pt x 132.79489pt.
 
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 242.
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+
+ []
+
+[21 <./images/segmented_k_means12.png> <./images/segmented_k_means13.png>]
+<images/segmented_k_means_tumor0.png, id=296, 1159.33125pt x 291.0875pt>
+File: images/segmented_k_means_tumor0.png Graphic file (type png)
+<use images/segmented_k_means_tumor0.png>
+Package pdftex.def Info: images/segmented_k_means_tumor0.png  used on input lin
+e 348.
+(pdftex.def)             Requested size: 521.69424pt x 130.98816pt.
+<images/segmented_k_means_tumor1.png, id=297, 1155.31625pt x 293.095pt>
+File: images/segmented_k_means_tumor1.png Graphic file (type png)
+<use images/segmented_k_means_tumor1.png>
+Package pdftex.def Info: images/segmented_k_means_tumor1.png  used on input lin
+e 349.
+(pdftex.def)             Requested size: 519.88751pt x 131.89153pt.
+<images/segmented_k_means_tumor2.png, id=298, 1158.3275pt x 289.08pt>
+File: images/segmented_k_means_tumor2.png Graphic file (type png)
+<use images/segmented_k_means_tumor2.png>
+Package pdftex.def Info: images/segmented_k_means_tumor2.png  used on input lin
+e 350.
+(pdftex.def)             Requested size: 521.24257pt x 130.0848pt.
+<images/segmented_k_means_tumor3.png, id=299, 1152.305pt x 288.07625pt>
+File: images/segmented_k_means_tumor3.png Graphic file (type png)
+<use images/segmented_k_means_tumor3.png>
+Package pdftex.def Info: images/segmented_k_means_tumor3.png  used on input lin
+e 351.
+(pdftex.def)             Requested size: 518.53246pt x 129.6331pt.
+
+[22 <./images/segmented_k_means_tumor0.png> <./images/segmented_k_means_tumor1.
+png> <./images/segmented_k_means_tumor2.png> <./images/segmented_k_means_tumor3
+.png>]
+<images/segmented_k_means_tumor4.png, id=308, 1163.34625pt x 293.095pt>
+File: images/segmented_k_means_tumor4.png Graphic file (type png)
+<use images/segmented_k_means_tumor4.png>
+Package pdftex.def Info: images/segmented_k_means_tumor4.png  used on input lin
+e 357.
+(pdftex.def)             Requested size: 523.50099pt x 131.89153pt.
+<images/segmented_k_means_tumor5.png, id=309, 1155.31625pt x 294.09875pt>
+File: images/segmented_k_means_tumor5.png Graphic file (type png)
+<use images/segmented_k_means_tumor5.png>
+Package pdftex.def Info: images/segmented_k_means_tumor5.png  used on input lin
+e 358.
+(pdftex.def)             Requested size: 519.88751pt x 132.3432pt.
+<images/segmented_k_means_tumor6.png, id=310, 1152.305pt x 294.09875pt>
+File: images/segmented_k_means_tumor6.png Graphic file (type png)
+<use images/segmented_k_means_tumor6.png>
+Package pdftex.def Info: images/segmented_k_means_tumor6.png  used on input lin
+e 359.
+(pdftex.def)             Requested size: 518.53246pt x 132.3432pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 363.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 363.
+
+[23 <./images/segmented_k_means_tumor4.png> <./images/segmented_k_means_tumor5.
+png> <./images/segmented_k_means_tumor6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 246.
+(hyperref)                removing `\dj' on input line 381.
 
-[11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
+
+Overfull \hbox (2.56999pt too wide) in paragraph at lines 383--384
+[]\OT2/cmsrbr/m/n/10 Pore^^Nenjem re-zul-ta-ta ko-je vra^^Oaju al-go-rit-mi k-s
+redina i fa-zi c-sredina
+ []
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 385.
+
+[24] [25]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 404.
+ [26]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 404.
  (./fuzzy_clustering.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 265.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 404.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 404.
 Package rerunfilecheck Info: File `fuzzy_clustering.out' has not changed.
-(rerunfilecheck)             Checksum: DDDD6B940AE468ED66DCE25D7FFE7A1D;1134.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 265.
+(rerunfilecheck)             Checksum: 5E930836F318AB72A100BF8CE087ED21;1175.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 404.
  ) 
 Here is how much of TeX's memory you used:
- 8198 strings out of 481239
- 120806 string characters out of 5920378
- 380274 words of memory out of 5000000
- 23241 multiletter control sequences out of 15000+600000
- 565505 words of font info for 74 fonts, out of 8000000 for 9000
+ 8465 strings out of 481239
+ 130577 string characters out of 5920378
+ 383381 words of memory out of 5000000
+ 23452 multiletter control sequences out of 15000+600000
+ 562753 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,33p,1463b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,8n,33p,1790b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cmsrb/cmsrbts1.enc}{/usr/share
 /texlive/texmf-dist/fonts/enc/dvips/cmsrb/cmsrbt1.enc}{/usr/share/texlive/texmf
 -dist/fonts/enc/dvips/cmsrb/cmsrbot2.enc}</usr/share/texlive/texmf-dist/fonts/t
@@ -1112,10 +1456,10 @@ are/texlive/texmf-dist/fonts/type1/public/cmsrb/cmsrbrb.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/cmsrb/cmsrbrr.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmsy5.pfb>
-Output written on fuzzy_clustering.pdf (12 pages, 619444 bytes).
+Output written on fuzzy_clustering.pdf (26 pages, 7417631 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 389 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 384 words of extra memory for PDF output out of 10000 (max. 10000000)
 

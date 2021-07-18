@@ -2,14 +2,15 @@
 \BOOKMARK [2][-]{subsection.1.1}{Definicija klasterovanja}{section.1}% 2
 \BOOKMARK [2][-]{subsection.1.2}{Vrste klasterovanja}{section.1}% 3
 \BOOKMARK [2][-]{subsection.1.3}{Razliciti tipovi klasterovanja}{section.1}% 4
-\BOOKMARK [2][-]{subsection.1.4}{Fuzzy klasterovanje}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.4}{Fazi klasterovanje}{section.1}% 5
 \BOOKMARK [1][-]{section.2}{Segmentacija slika}{}% 6
-\BOOKMARK [2][-]{subsection.2.1}{Fuzzy c-means}{section.2}% 7
-\BOOKMARK [3][-]{subsubsection.2.1.1}{Na\235a implementacija algoritma fuzzy c-means}{subsection.2.1}% 8
-\BOOKMARK [3][-]{subsubsection.2.1.2}{Rezultati na\235eg algoritma fuzzy c-means na nekim rendgenskim snimcima tumora}{subsection.2.1}% 9
-\BOOKMARK [2][-]{subsection.2.2}{K-means}{section.2}% 10
-\BOOKMARK [3][-]{subsubsection.2.2.1}{Na\235a implementacija algoritma k-means}{subsection.2.2}% 11
-\BOOKMARK [3][-]{subsubsection.2.2.2}{Rezultati na\235eg algoritma k-means na nekim rendgenskim snimcima tumora}{subsection.2.2}% 12
-\BOOKMARK [1][-]{section.3}{Zakljucak}{}% 13
-\BOOKMARK [2][-]{subsection.3.1}{Poreenje rezultata}{section.3}% 14
-\BOOKMARK [1][-]{section.4}{Literatura}{}% 15
+\BOOKMARK [2][-]{subsection.2.1}{Fazi c-sredina}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Na\235a implementacija algoritma fazi c-sredina}{subsection.2.1}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Rezultati algoritma fazi c-sredina}{subsection.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.2}{K-sredina}{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Na\235a implementacija algoritma k-sredina}{subsection.2.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Rezultati algoritma k-sredina}{subsection.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.3}{Funkcija \040threshold\(\) \040i predstavljanje piksela jednom vredno\235cu}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.4}{Poreenje rezultata}{section.2}% 14
+\BOOKMARK [1][-]{section.3}{Zakljucak}{}% 15
+\BOOKMARK [1][-]{section.4}{Literatura}{}% 16
