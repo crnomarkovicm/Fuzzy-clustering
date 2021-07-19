@@ -7,16 +7,21 @@ Segmentacija slika uz pomoć fuzzy klasterovanja.
 
 ### Eksperimentalni rezultati:
 
-<img src="tex/images/low_segmented_fuzzy_c_means0.png" />
-<img src="tex/images/low_segmented_fuzzy_c_means1.png" />
-<img src="tex/images/low_segmented_fuzzy_c_means2.png" />
-<img src="tex/images/ultra_segmented_fuzzy_c_means0.png" />
-<img src="tex/images/ultra_segmented_fuzzy_c_means1.png" />
-<img src="tex/images/ultra_segmented_fuzzy_c_means2.png" />
-<img src="tex/images/segmented_fuzzy_c_means_tumor0.png" />
-<img src="tex/images/segmented_fuzzy_c_means_tumor3.png" />
-<img src="tex/images/segmented_fuzzy_c_means_tumor4.png" />
-<img src="tex/images/segmented_fuzzy_c_means_tumor5.png" />
+#### Slike u boji. 2-3 klastera:
+<img src="tex/images/low_segmented_fuzzy_c_means0.png" width="550"/>
+<img src="tex/images/low_segmented_fuzzy_c_means1.png" width="550"/>
+<img src="tex/images/low_segmented_fuzzy_c_means2.png" width="550"/>
+
+#### Slike u boji. 4-6 klastera:
+<img src="tex/images/ultra_segmented_fuzzy_c_means0.png" width="700"/>
+<img src="tex/images/ultra_segmented_fuzzy_c_means1.png" width="700"/>
+<img src="tex/images/ultra_segmented_fuzzy_c_means2.png" width="700"/>
+
+#### Detekcija tumora na mozgu. 4-6 klastera:
+<img src="tex/images/segmented_fuzzy_c_means_tumor0.png" width="700"/>
+<img src="tex/images/segmented_fuzzy_c_means_tumor3.png" width="700"/>
+<img src="tex/images/segmented_fuzzy_c_means_tumor4.png" width="700"/>
+<img src="tex/images/segmented_fuzzy_c_means_tumor5.png" width="700"/>
 
 ### Tehnologije korišćene za izradu:
 
