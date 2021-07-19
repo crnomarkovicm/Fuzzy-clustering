@@ -7,9 +7,16 @@ Segmentacija slika uz pomoć fuzzy klasterovanja.
 
 ### Eksperimentalni rezultati:
 
-<img src="tex/images/segmented0.png" />
-<img src="tex/images/segmented1.png" />
-<img src="tex/images/segmented2.png" />
+<img src="tex/images/low_segmented_fuzzy_c_means0.png" />
+<img src="tex/images/low_segmented_fuzzy_c_means1.png" />
+<img src="tex/images/low_segmented_fuzzy_c_means2.png" />
+<img src="tex/images/ultra_segmented_fuzzy_c_means0.png" />
+<img src="tex/images/ultra_segmented_fuzzy_c_means1.png" />
+<img src="tex/images/ultra_segmented_fuzzy_c_means2.png" />
+<img src="tex/images/segmented_fuzzy_c_means_tumor0.png" />
+<img src="tex/images/segmented_fuzzy_c_means_tumor3.png" />
+<img src="tex/images/segmented_fuzzy_c_means_tumor4.png" />
+<img src="tex/images/segmented_fuzzy_c_means_tumor5.png" />
 
 ### Tehnologije korišćene za izradu:
 
