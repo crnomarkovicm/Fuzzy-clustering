@@ -12,7 +12,7 @@ Segmentacija slika uz pomoć fuzzy klasterovanja.
 <img src="tex/images/low_segmented_fuzzy_c_means1.png" width="550"/>
 <img src="tex/images/low_segmented_fuzzy_c_means2.png" width="550"/>
 
-#### Slike u boji. 4-6 klastera:
+#### Slike u boji. 8, 12 i 15 klastera:
 <img src="tex/images/ultra_segmented_fuzzy_c_means0.png" width="700"/>
 <img src="tex/images/ultra_segmented_fuzzy_c_means1.png" width="700"/>
 <img src="tex/images/ultra_segmented_fuzzy_c_means2.png" width="700"/>
